@@ -1,11 +1,10 @@
 # About Me:
-- I’m currently working on: Building AI-based projects, hackathon ideas, and a backend dashboard system for my websites.<br>
- I’m looking to collaborate on: Beginner-friendly AI/ML projects, Python-based applications, and student tech projects.<br>
-- I’m looking for help with: Backend development, real-world project architecture, and improving deployment skills.<br>
-- I’m currently learning: Python in depth, C programming, AI fundamentals, and practical software development.<br>
-- Ask me about: Python, data analysis basics, AI learning, GitHub projects, and student tech growth.<br>
+- I’m currently working on: Building AI-based projects, hackathon ideas, and a backend dashboard system for my websites.
+- I’m looking to collaborate on AI/ML projects, Python-based applications, and student tech projects.
+- I’m looking for help with real-world project architecture, and improving deployment skills.
+- I’m currently learning: Python in depth, AI fundamentals, and practical software development.
+- Ask me about: Python, data analysis, AI learning, GitHub projects.
 - Fun fact: I turn ideas into projects first and learn the theory along the way 😄
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__akash.soni) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akashsoni1461) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashkrsoni2004@gmail.com) 
